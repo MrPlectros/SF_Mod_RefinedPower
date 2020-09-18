@@ -3,6 +3,13 @@
 ## Building Information:
 Modular Power Chimneys are used to vent Co2 and Steam from heaters and turbines.
 
+## Building Cost :
+
+|===
+| Steam Chimney   | 20 Copper Sheet | 4 Reinforced Iron plate | 2 Carbon Mesh
+| Co2 Chimney | 20 Copper Sheet | 4 Reinforced Iron plate | 2 Carbon Mesh
+|===
+
 ## Building Usage Rates:
 
 |===
@@ -10,7 +17,7 @@ Modular Power Chimneys are used to vent Co2 and Steam from heaters and turbines.
 
 | Steam Chimney   | Low Pressure Steam | ~42/Min     | N/A        
 
-| Co2 Shimney     | Co2                | ~64/Min     | N/A        
+| Co2 Chimney     | Co2                | ~64/Min     | N/A        
 |===
 
 ## Variants:
