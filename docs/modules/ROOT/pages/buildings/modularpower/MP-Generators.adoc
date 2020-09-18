@@ -4,7 +4,14 @@
 Generators are built on the Converter Platform and can only function if attached to a Turbine.
 
 ## Building Cost:
-TDB
+|=====
+| Variant ||||
+| LV Generator | 15 Reinforced Iron Plate | 8 Modular Frame | 50 Wire |
+
+| MV Generator | 4 Heavy modular Frame | 20 Circuit Board | 100 Quickwire |
+
+| HV Generator | 5 Supercomputer | 20 Heavy modular Frame | 200 Quickwire | 15 High-Speed Connector
+|=====
 
 ## RPM Sweetspots:
 
