@@ -3,6 +3,13 @@
 ## Building Information:
 These buildings are used for the new Modular Power buildings, there are currently 3 different variants of platforms. Boiler, Converter, & Cooler platforms.
 
+## Building Cost:
+|===
+| Boiler Platform        | 6 Reinforced Iron plate     | 20 Iron rod     | 2 Modular Frame
+| Converter Platform     | 6 Reinforced Iron plate     | 20 Iron rod     | 2 Modular Frame
+| Cooler Platform        | 6 Reinforced Iron plate     | 20 Iron rod     | 2 Modular Frame
+|===
+
 ## Variants:
 
 ### Boiler Platform:
