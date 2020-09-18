@@ -21,7 +21,13 @@ The heater will produce Co2 which will need to be handled wither by venting thro
 |===
 
 ## Building Cost:
-TBD
+
+|=====        
+| Biomass Heater  | 12 Reinforced Iron Plate    | 3 Modular Frame     | 20 Cable                  |                
+| Coal Heater     | 20 Reinforced Iron Plate    | 5 Modular Frame     | 50 Cable                  |                
+| Solution Heater | 6 Heavy Modular Frame       | 5 Computer          | 40 rubber                 | 50 Quickwire   
+| Nuclear Heater  | 100 Concrete                | 50 Cable            | 14 High speed connector   | 5 Supercomputer
+|=====
 
 ## Variants:
 
