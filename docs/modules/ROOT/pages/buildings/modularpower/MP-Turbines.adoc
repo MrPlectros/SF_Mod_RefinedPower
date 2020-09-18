@@ -19,7 +19,10 @@ The Low Pressure Steam must be piped out the turbines into a Steam cooling tower
 
 ## Building Cost:
 
-TBD
+|====
+| Turbine Mk1     | 20 Reinforced Iron Plate | 6 Modular Frame | 10 Rotor
+| Turbine Mk2     | 6 Heavy Modular Frame    | 10 Motor        | 4 computer
+|====
 
 ## Building Tier:
 
